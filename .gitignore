@@ -1,0 +1,10 @@
+# Personal credentials and local runtime files
+.env
+.venv/
+__pycache__/
+*.pyc
+.playwright-mcp/
+
+# Saved portal pages may contain session details
+Network Login*.html
+Network Login*_files/
